@@ -1,2 +1,2 @@
 # Hamtherammy.github.io
-https://{userid}.github.io/{Hamtherammy.github.io}
+https://github.com/Hammytherammy/Hamtherammy.github.io.git
