@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html></html>
+
+ <head>
+
+  <title>My personal introduction</title>
+
+ </head>
+
+ <style></style>
+
+body{
+	 background-color:E4B174;
+}
+
+h1{
+	color:E53630;
+}
+
+P{
+	color:621826;
+}
+
+<body>
+
+<h1>Hi my name is Hamouda</h1>
+
+<p>I like video games, football, and basketball.</p>'
+
+</body>
+      
